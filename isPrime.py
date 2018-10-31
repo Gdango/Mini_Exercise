@@ -1,4 +1,3 @@
-
 def isPrime(value):
     for i in range(2,10):
         if value % i == 0:
