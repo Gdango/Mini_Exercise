@@ -1,4 +1,3 @@
-value = 13
 
 def isPrime(value):
     for i in range(2,10):
